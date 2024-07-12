@@ -1,0 +1,25 @@
+/website file structure
+│
+├── /css
+│   └── styles.css
+├── /images
+│   └── (to store uploaded images)
+├── /js
+│   └── script.js
+├── /php
+│   ├── db.php
+│   ├── signup.php
+│   ├── login.php
+│   ├── application.php
+│   ├── generate_id_card.php
+│   ├── send_email.php
+│   ├── save_application.php
+│   └── logout.php
+├── /uploads
+│   └── (to store uploaded profile pictures)
+├── index.php
+├── about.php
+├── contact.php
+├── signup.php
+├── login.php
+└── dashboard.php
